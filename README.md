@@ -4,10 +4,10 @@ Repo containing config files for my customized Kubuntu system
 
 ***|Description|Links
 ---|---|---
-OS | Kubuntu 20.10 | https://kubuntu.org/
+OS | Kubuntu 21.04 | https://kubuntu.org/
 Kernel | Xanmod STABLE | https://xanmod.org/
-Shell | Zsh + OhMyZsh + Powerlevel10k | https://ohmyz.sh/, https://github.com/romkatv/powerlevel10k
-Preferred Font | Meslo Nerd Font | https://github.com/romkatv/powerlevel10k |
+Shell | Zsh + Starship | https://starship.rs
+Preferred Font | FiraCode Nerd Font | https://www.nerdfonts.com/font-downloads, https://www.programmingfonts.org/#firacode |
 KDE Plasma Theme | Sweet KDE | https://store.kde.org/p/1294729 |
 
 ---
